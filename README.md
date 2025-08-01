@@ -1,8 +1,8 @@
 <h1 align="center"> Oi! Meu nome é Isaac!👋👋 <h1>
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=IsaacFaleirosQuevedo&show_icons=true&theme=radical">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&layout=compact&theme=radical">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=IsaacFaleirosQuevedo&show_icons=true&theme=radical">
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&layout=compact&theme=radical">
 </div>
  
  <div align="center">
