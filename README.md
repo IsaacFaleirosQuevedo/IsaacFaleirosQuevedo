@@ -1,9 +1,9 @@
 <h1 align="center"> Oi! Meu nome é Isaac!👋👋 <h1>
 
 <div>
-  ![IsaacFaleirosQuevedo's Stats](https://github-readme-stats.vercel.app/api?username=IsaacFaleirosQuevedo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-  ![IsaacFaleirosQuevedo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaacFaleirosQuevedo&theme=tokyonight&hide_border=false)
-  ![IsaacFaleirosQuevedo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+  <img scr="https://github-readme-stats.vercel.app/api?username=IsaacFaleirosQuevedo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacFaleirosQuevedo&theme=tokyonight&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
 </div>
  
  <div align="center">
