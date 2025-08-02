@@ -1,7 +1,7 @@
 <h1 align="center"> Oi! Meu nome é Isaac!👋👋 <h1>
 
 <div>
-  <img scr="https://github-readme-stats.vercel.app/api?username=IsaacFaleirosQuevedo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+  <img scr="[https://github-readme-stats.vercel.app/api?username=IsaacFaleirosQuevedo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true](https://github-readme-stats.vercel.app/api?username=IsaacFaleirosQuevedo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacFaleirosQuevedo&theme=tokyonight&hide_border=false">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
 </div>
