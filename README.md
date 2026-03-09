@@ -14,12 +14,26 @@
       width="40px" 
       style="padding-right: 10px;"  
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-      
+
   <img 
       align="left" 
       width="40px" 
       style="padding-right: 10px;"  
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+  <img 
+      align="left" 
+      width="40px" 
+      style="padding-right: 10px;"  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+    />
+
+  <img 
+      align="left" 
+      width="40px" 
+      style="padding-right: 10px;"  
+      src="https://devicon-website.vercel.app/api/python/original.svg"
+    />
       
   <img 
       align="left" 
@@ -31,7 +45,31 @@
       align="left" 
       width="40px" 
       style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+  <img 
+      align="left" 
+      width="40px" 
+      style="padding-right: 10px;"  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+
+  <img 
+      align="left" 
+      width="40px" 
+      style="padding-right: 10px;"  
+      src="https://devicon-website.vercel.app/api/c/original.svg" />
+
+  <img 
+      align="left" 
+      width="40px" 
+      style="padding-right: 10px;"  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+  <img 
+      align="left" 
+      width="40px" 
+      style="padding-right: 10px;"  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
 <br>
 <br>
@@ -41,9 +79,22 @@
 <br>
 
 ### Minhas estatisticas 📊
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsaacFaleirosQuevedo&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&theme=tokyonight&layout=compact)
+<p>
+  <img  
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats-one-woad-67.vercel.app/api?username=IsaacFaleirosQuevedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats-one-woad-67.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&theme=tokyonight&layout=compact&langs_count=8"
+  />
+</p>
 
 
 
