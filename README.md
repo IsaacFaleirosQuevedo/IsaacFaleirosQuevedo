@@ -1,10 +1,10 @@
-# Oi! Meu nome é Isaac!👋👋
+# Hello! My name is Isaac!👋👋
 
-# Estudante de Desenvolvimento de Sistemas! EtecVav
+# I'm a student of Systems Development! EtecVav-Jundiai
 
 ---
 
-### Linguagens e Tecnologias 🖥️
+### Languages ​​and Technologies 🖥️
   <img 
       align="left" 
       width="40px" 
@@ -80,7 +80,7 @@
 
 <br>
 
-### Minhas estatisticas 📊
+### My stats 📊
 <p>
   <img  
     align="left"
