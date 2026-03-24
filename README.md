@@ -1,10 +1,10 @@
 # Hello! My name is Isaac!👋👋
 
-# I'm a student of Systems Development! EtecVav-Jundiai
+# I'm a Systems Development student at ETEC VAV - Jundiaí, Brazil 🇧🇷
 
 ---
 
-### Languages ​​and Technologies 🖥️
+### Languages ​​and Technologies 🖥️:
   <img 
       align="left" 
       width="40px" 
