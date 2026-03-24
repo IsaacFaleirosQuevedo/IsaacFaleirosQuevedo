@@ -1,6 +1,6 @@
 # Hello! My name is Isaac!👋👋
 
-# I'm a Systems Development student at ETEC VAV - Jundiaí, Brazil 🇧🇷
+# I'm a Systems Development student at ETEC VAV - Jundiaí, Brazil
 
 ---
 
