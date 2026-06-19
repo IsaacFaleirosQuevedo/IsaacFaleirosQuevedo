@@ -86,14 +86,14 @@
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats-one-woad-67.vercel.app/api?username=IsaacFaleirosQuevedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=PAT_1&cache_seconds=60"
+    src="https://github-readme-stats-one-woad-67.vercel.app/api?username=IsaacFaleirosQuevedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=60"
   />
   
   <img
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats-one-woad-67.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&theme=tokyonight&layout=compact&langs_count=8&token=PAT_1&cache_seconds=60"
+    src="https://github-readme-stats-one-woad-67.vercel.app/api/top-langs/?username=IsaacFaleirosQuevedo&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=60"
   />
 </p>
 
